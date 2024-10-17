@@ -75,3 +75,4 @@
 - `Modifications/img/bg_colorless.jpg`: ArcaeaのCG
 - `Modifications/img/bg_byd_light.jpg`: ArcaeaのCG
 - `Modifications/img/bg_byd_dark.jpg`: ArcaeaのCG
+- top bar: Amilyia
