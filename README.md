@@ -2,7 +2,7 @@
 
 ## Description
 
-- A script to automate the beautification of Arcaea. Place the image and sound files you want to modify in the `Modification/` folder, and the script will automatically unpack, replace the resources in `assets` with those in `Modification/`, and repack and sign the files.
+- A script to automate the beautification of Arcaea. Place the image and sound files you want to modify in the `Modifications/` folder, and the script will automatically unpack, replace the resources in `assets` with those in `Modifications/`, and repack and sign the files.
 - This script is intended for Android users only.
 - There are two modes available:
   - The first is for personal use.
