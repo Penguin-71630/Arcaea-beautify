@@ -46,7 +46,7 @@
  ```
  ![image](https://github.com/Penguin-71630/Arcaea-beautify/blob/main/Demo/run_modify_public.png)
 
-5. 执行过程中，`apksigner` 会要你输入签名资讯：
+5. 执行过程中，`keytool` 会要你输入签名资讯：
 
  - `Enter keystore password:` 请输入 `123456`
  - `Re-enter new password:` 请再输入一次 `123456`
