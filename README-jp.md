@@ -47,7 +47,7 @@
     ```
     ![image](https://github.com/Penguin-71630/Arcaea-beautify/blob/main/Demo/run_modify_public.png)
 
-5. 実行中に、`apksigner`が署名情報の入力を求めてきます：
+5. 実行中に、`keytool`が署名情報の入力を求めてきます：
 
     - `Enter keystore password:` `123456`を入力してください
     - `Re-enter new password:` `123456`をもう一度入力してください
