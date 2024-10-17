@@ -47,7 +47,7 @@
     ```
     ![image](https://github.com/Penguin-71630/Arcaea-beautify/blob/main/Demo/run_modify_public.png)
 
-5. During the execution, `apksigner` will ask you to enter signing information:
+5. During the execution, `keytool` will ask you to enter signing information:
 
     - `Enter keystore password:` Please enter `123456`
     - `Re-enter new password:` Please enter `123456` again
