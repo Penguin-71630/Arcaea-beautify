@@ -75,3 +75,4 @@
 - `Modifications/img/bg_colorless.jpg`：Arcaea cg
 - `Modifications/img/bg_byd_light.jpg`：Arcaea cg
 - `Modifications/img/bg_byd_dark.jpg`：Arcaea cg
+- top bar：Amilyia
