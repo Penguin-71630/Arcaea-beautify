@@ -203,7 +203,7 @@ if __name__ == "__main__":
                 (H.f(d[:7]) == "571d4da7d9744abc1d11d0fdfea45317") or
                 (H.f(d) == "c3012d1ca6b6e59263d6ec9d3a55c30f")):
                 continue
-            
+
             fileInMod = currentPath + "/" + file
             fileInAPK = apkName + "/assets" + fileInMod[fileInMod.find("/"):]
 
